@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+}
+main {
+    overflow-x: hidden;
+}
+#mainDiv {
+    width: 100%;
+    padding: 4% 8% 0 8%;
+    box-sizing: border-box;
+}
+.wrapper {
+    margin-bottom: 100px;
+}
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
+.card-wrapper {
+    margin: 8px;
+    box-shadow: 1px 1px 4px grey;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    cursor: pointer;
+}
+.img {
+    width: 100%;
+}
+.name{
+    padding-left: 5px;
+    font-family: 'Gelasio', serif;
+}
+.para {
+    padding-left: 5px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    color: gray;
+}
+.price {
+    padding-left: 5px;
+    color: teal;
+    font-family: 'Lora', serif;
+    font-weight: 500;
+}
+#multiple-items {
+    /* margin-top: 95px; */
+    padding-top: 95px;
+}
+.caresoul-img {
+    height: 450px;
+}

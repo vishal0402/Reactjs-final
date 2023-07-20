@@ -1,0 +1,14 @@
+#main {
+    text-align: center;
+    padding: 150px 0;
+}
+#main h1 {
+    font-family: 'Gelasio', serif;
+}
+#main {
+font-family: 'Lora', serif;
+}
+.fa-check-circle {
+    color: #70DD54;
+    font-weight: 200;
+}
